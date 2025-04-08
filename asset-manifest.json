@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-project-listing-page-git-code/static/css/main.f7617df0.css",
-    "main.js": "/my-project-listing-page-git-code/static/js/main.38d4e170.js",
+    "main.js": "/my-project-listing-page-git-code/static/js/main.3de5772f.js",
     "index.html": "/my-project-listing-page-git-code/index.html",
     "main.f7617df0.css.map": "/my-project-listing-page-git-code/static/css/main.f7617df0.css.map",
-    "main.38d4e170.js.map": "/my-project-listing-page-git-code/static/js/main.38d4e170.js.map"
+    "main.3de5772f.js.map": "/my-project-listing-page-git-code/static/js/main.3de5772f.js.map"
   },
   "entrypoints": [
     "static/css/main.f7617df0.css",
-    "static/js/main.38d4e170.js"
+    "static/js/main.3de5772f.js"
   ]
 }
